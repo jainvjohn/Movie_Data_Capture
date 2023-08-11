@@ -1,7 +1,7 @@
 requests
 dlib-bin
 Click
-numpy
+numpy==1.25.2
 face-recognition-models
 lxml
 beautifulsoup4
